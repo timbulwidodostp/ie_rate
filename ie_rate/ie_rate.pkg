@@ -1,0 +1,8 @@
+D 'ie_rate': Conduct age, period, and cohort (APC) analysis of tabular rate data using the intrinsic estimator Use ie_rate With STATA 19
+D
+F ie_norm.ado
+F ie_norm.sthlp
+F ie_rate.ado
+F ie_rate.sthlp
+F ie_reg.ado
+F ie_reg.sthlp
