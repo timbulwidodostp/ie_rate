@@ -3,6 +3,8 @@ Conduct age, period, and cohort (APC) analysis of tabular rate data using the in
 
 Intrinsic estimator for age, period, cohort (APC) applications Use ie_rate With STATA 19
 
+https://www.youtube.com/watch?v=6Gpk8_dXp8Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
